@@ -7,6 +7,6 @@ public class B {
 		System.out.println("1 push");
 		System.out.println("git test3");
 		System.out.println("git test4");
-		System.out.println("git test5");
+		System.out.println("git test5"); 
 	}
 }
