@@ -5,5 +5,6 @@ public class B {
 		System.out.println("gittest1");
 		System.out.println("gittest2");
 		System.out.println("1 push");
+		System.out.println("git test3");
 	}
 }
