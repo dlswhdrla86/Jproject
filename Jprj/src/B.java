@@ -8,5 +8,6 @@ public class B {
 		System.out.println("git test3");
 		System.out.println("git test4");
 		System.out.println("git test5");
+		//go
 	}
 }
