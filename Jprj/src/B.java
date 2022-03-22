@@ -15,5 +15,7 @@ public class B {
 		System.out.println("git test9");
 		System.out.println("git test10");
 		System.out.println("git test11");
+		System.out.println("git test12");
+		System.out.println("git test13");
 	}
 }
